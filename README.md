@@ -1,42 +1,54 @@
 # Swing_P02_compendio
 ## 🚀 Descripción del Proyecto
 
-[Descripción detallada del proyecto.]
+Este proyecto es el segundo compendio realizado sobre la librería Swing, contiene una compilación de los diversos objetos de Swing y las posibilidades que proporcionan para crear una aplicación gráfica de escritorio.
 
 ## 📄 Contenido de la Publicación
 
-[Información sobre el contenido que se abordará en la publicación.]
+El proyecto se encuentra dividido en cuatro directorios, la aplicación en si, la documentación técnica, el manual de usuario y el ejecutable de la aplicación.
 
 ## 🛠️ Desarrollo del Proyecto
 
-[Aquí se detalla el proceso de desarrollo del proyecto, sus características clave y cualquier otra información relevante.]
+La aplicación se ha desarrollando en multiples días utilizando la librería Swing de Java, en eclipse, siguiendo todas las pautas que fueron definidas para la realización de la actividad
 
-## 🚀 Despliegue (Cómo ejecutar la aplicación desde el ejecutable)
+## 🚀 Despliegue
+
+Descargar el ejecutable.
 
 - **Windows**
-[Instrucciones específicas para el despliegue en entornos Windows.]
+Realizar doble click sobre el ejecutable.
 
 - **Linea de comandos**
-[Instrucciones generales para el despliegue a través de la línea de comandos.]
+
+Se necesita tener configurado java para poder ser utilizado en la linea de comandos para utilizar esta opción
+  
+```console
+[Directorio en el que se encuentre el ejecutable]> java -jar swing_c_p02_NajarDelgadoGerman.jar
+```
+o
+```console
+[Cualquier directorio]> java -jar [Directorio en el que se encuentre el ejecutable]\swing_c_p02_NajarDelgadoGerman.jar
+```
 
 ## 🔧 Construido con
 
-[Lista de tecnologías y herramientas utilizadas en el proyecto.]
++ Lenguaje: Java
++ Librerías: Swing
++ Editor: Eclipse
 
 ## 📌 Versionado
 
-[Información sobre cómo se versiona el proyecto.]
+Versión 1.0.0
 
 ## ✏️ Autores
 
-[Listado de los contribuidores al proyecto.]
+- [![GitHub Follow](https://img.shields.io/badge/Connect-Theforrest-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/Theforrest)
+
 
 ## 📜 Licencia
 
-[Detalle sobre la licencia del proyecto.]
+Este proyecto se encuentra licenciado bajo la licencia GPL-3.0, todos los terminos establecidos en ella deben de ser seguidos si se planea hacer uso de cualquier parte de este proyecto.
 
 ## 🌐 Recursos Adicionales
 
-[Enlaces y recursos adicionales relacionados con el proyecto.]
-
-- [Link a la propia página de GitHub](https://github.com/tu_usuario/tu_proyecto)
+- [Proyecto guardado en GitHub](https://github.com/tu_usuario/tu_proyecto)
